@@ -1,0 +1,19 @@
+{
+  "name": "find-in-object",
+  "version": "1.0.0",
+  "description": "search for the specified key within the object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.tecnospeed.local/heitor.dobeis/find-in-object"
+  },
+  "keywords": [
+    "find",
+    "object"
+  ],
+  "author": "Heitor Dobeis",
+  "license": "ISC"
+}
