@@ -1,6 +1,6 @@
 {
   "name": "find-in-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "search for the specified key within the object",
   "main": "index.js",
   "scripts": {
