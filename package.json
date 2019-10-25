@@ -15,5 +15,13 @@
     "object"
   ],
   "author": "Heitor Dobeis",
-  "license": "ISC"
+  "license": "ISC",
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
 }
